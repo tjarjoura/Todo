@@ -1,1 +1,1 @@
-A basic todo-list web app, written in bare javascript
+A basic todo-list web app, written using jQuery
